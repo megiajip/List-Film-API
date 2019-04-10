@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Film</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="nama_film">Nama Film</string>
+    <string name="tanggal_rilis">Tanggal Rilis</string>
+    <string name="deskripsi_film">Deskripsi</string>
+    <string name="detail_film">Detail Film</string>
+</resources>
